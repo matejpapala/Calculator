@@ -1,0 +1,3 @@
+C:\Users\matej\Downloads\Kalkulacka-20231014T122438Z-001\Kalkulacka\Kalkulacka\Debug\Kalkulacka.vcxproj.AssemblyReference.cache
+C:\Users\matej\Downloads\Kalkulacka-20231014T122438Z-001\Kalkulacka\Kalkulacka\Debug\Kalkulacka.Form1.resources
+C:\Users\matej\Downloads\Kalkulacka-20231014T122438Z-001\Kalkulacka\Kalkulacka\Debug\Kalkulacka.vcxproj.GenerateResource.cache
